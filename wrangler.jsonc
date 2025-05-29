@@ -4,7 +4,8 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "plain-leaf-b742",
+	// "name": "plain-leaf-b742",
+	"name": "cloudflare-testing-page",
 	"compatibility_date": "2025-05-29",
 	"compatibility_flags": [
 		"nodejs_compat"
