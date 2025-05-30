@@ -26,3 +26,7 @@ body {
   margin: auto;
   width: 90vw;
 }
+
+.hero {
+  background-color: #ede3f2;
+}
