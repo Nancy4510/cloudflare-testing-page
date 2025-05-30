@@ -14,7 +14,7 @@ export default function AboutPage() {
                 <br></br>
                 <Image 
                 className="border border-solid border-red-500"
-                src="/jane-smith.jpg"
+                src="/imgs/jane-smith.jpg"
                 alt="A profile picture of Jane Smith"
                 width={300}
                 height={300}
@@ -24,7 +24,7 @@ export default function AboutPage() {
                 <br></br>
                 <Image 
                 className="border border-solid border-red-500"
-                src="/diego-hernandez.jpg"
+                src="/imgs/diego-hernandez.jpg"
                 alt="A profile picture of Diego Hernandez"
                 width={300}
                 height={300}
@@ -33,7 +33,7 @@ export default function AboutPage() {
                 <br></br>
                 <Image 
                 className="border border-solid border-red-500"
-                src="/puggster-jones.jpg"
+                src="/imgs/puggster-jones.jpg"
                 alt="A profile picture of a dog who is a pug and the mascot."
                 width={300}
                 height={300}
